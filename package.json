@@ -10,18 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "jetifier": "^1.6.6",
+    "jetifier": "^2.0.0",
     "react": "17.0.2",
-    "react-native": "0.64.0"
+    "react-native": "0.66.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.14",
-    "@babel/runtime": "^7.13.10",
-    "@react-native-community/eslint-config": "^2.0.0",
-    "babel-jest": "^26.6.3",
-    "eslint": "^7.23.0",
-    "jest": "^26.6.3",
-    "metro-react-native-babel-preset": "^0.65.2",
+    "@babel/core": "^7.16.0",
+    "@babel/runtime": "^7.16.3",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "babel-jest": "^27.3.1",
+    "eslint": "^8.3.0",
+    "jest": "^27.3.1",
+    "metro-react-native-babel-preset": "^0.66.2",
     "react-test-renderer": "17.0.2"
   },
   "jest": {
